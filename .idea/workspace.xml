@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ac43f35-ffcf-4f1a-8ff4-32bba278de66" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/6- Function/Challenges/src/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6- Function/Challenges/src/FibonacchiSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6- Function/Challenges/src/ForwardSpacesTrianglePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6- Function/Challenges/src/ForwardTrianglePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6- Function/Challenges/src/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6- Function/Challenges/src/LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6- Function/Challenges/src/LowerTriangularPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6- Function/Challenges/src/NumReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6- Function/Challenges/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6- Function/Challenges/src/PerfectTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6- Function/Challenges/src/PrimeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6- Function/Challenges/src/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7- Array/Challenges/src/ArrayUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7- Array/Challenges/src/CheckSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7- Array/Challenges/src/DeletingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7- Array/Challenges/src/MaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7- Array/Challenges/src/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7- Array/Challenges/src/NoOfOccurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7- Array/Challenges/src/PalindromeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7- Array/Challenges/src/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7- Array/Challenges/src/ReverseArrayInPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7- Array/src/ArraySearching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7- Array/src/TwoDimensionalArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3- Operators/3- Operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4- If-Else/4- If-Else.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5- While loop  methods and arrays/5- While loop  methods and arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6- Function/6- Function.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6- Function/Challenges/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/6- Function/Challenges/src/Factorial.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2xR5LHs3PJZuB7vpCaC4G1B4WhC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ac43f35-ffcf-4f1a-8ff4-32bba278de66" name="Changes" comment="" />
+      <created>1747887991614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747887991614</updated>
+      <workItem from="1747887995419" duration="32000" />
+    </task>
+    <servers />
+  </component>
+</project>

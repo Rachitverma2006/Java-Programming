@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1- Java Basics/1- Java Basics.iml" filepath="$PROJECT_DIR$/1- Java Basics/1- Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2- Datatypes/2- Datatypes.iml" filepath="$PROJECT_DIR$/2- Datatypes/2- Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3- Operators/3- Operators.iml" filepath="$PROJECT_DIR$/3- Operators/3- Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4- If-Else/4- If-Else.iml" filepath="$PROJECT_DIR$/4- If-Else/4- If-Else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5- While loop  methods and arrays/5- While loop  methods and arrays.iml" filepath="$PROJECT_DIR$/5- While loop  methods and arrays/5- While loop  methods and arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6- Function/6- Function.iml" filepath="$PROJECT_DIR$/6- Function/6- Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7- Array/7- Array.iml" filepath="$PROJECT_DIR$/7- Array/7- Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7- Array/Challenges/Challenges.iml" filepath="$PROJECT_DIR$/7- Array/Challenges/Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6- Function/Challenges/Challenges2.iml" filepath="$PROJECT_DIR$/6- Function/Challenges/Challenges2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3- Operators/Challenges/Challenges3.iml" filepath="$PROJECT_DIR$/3- Operators/Challenges/Challenges3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Programming.iml" filepath="$PROJECT_DIR$/.idea/Java-Programming.iml" />
+    </modules>
+  </component>
+</project>
